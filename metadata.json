@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Multilingual Receipt Book",
+  "description": "An offline-first, multilingual receipt book application for managing maintenance payments. It supports multiple languages, stores data locally in IndexedDB, and allows exporting receipts to PDF and Excel formats. The UI is inspired by Material Design 3 for a modern, clean aesthetic.",
+  "requestFramePermissions": []
+}
